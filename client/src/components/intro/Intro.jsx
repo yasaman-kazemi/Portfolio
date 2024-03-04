@@ -11,7 +11,7 @@ const Intro = () => {
                     <br />
                     💻 As a frontend developer, I enjoy turning ideas into user-friendly interfaces.
                     <br />
-                    🚀 I am m eager to learn and grow in the world of technology. My portfolio showcases some of my projects and skills — I would love for you to check it out!</p>
+                    🚀 I am eager to learn and grow in the world of technology. My portfolio showcases some of my projects and skills — I would love for you to check it out!</p>
             </div>
             <img src="/profile.JPG" alt="" className="bg" />
         </section>
